@@ -29,8 +29,8 @@
       <file leaf-file-name="Euler_1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Euler_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44481054" vertical-offset="342" max-vertical-offset="1037">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.8682043" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -425,12 +425,12 @@
       <updated>1434916562000</updated>
       <workItem from="1434916567090" duration="241000" />
       <workItem from="1434916833110" duration="3159000" />
-      <workItem from="1434920015499" duration="252000" />
+      <workItem from="1434920015499" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3652000" />
+    <option name="totallyTimeSpent" value="3883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -483,26 +483,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Euler_1.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Euler_1.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Euler_1.java</url>
-          <line>24</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
@@ -530,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Euler_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44481054" vertical-offset="342" max-vertical-offset="1037">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.8682043" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding />
         </state>
       </provider>

@@ -29,7 +29,6 @@ public class Euler_1{
 			}
 		}
 	}
-	
 	//code to get sum if the input natural number is more than 10, as using an algorithm to calculate the value more efficiently.
 
 	public int getSum(int N){
